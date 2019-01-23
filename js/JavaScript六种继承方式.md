@@ -400,3 +400,4 @@ ES6新增了一个方法，Objcet.setPropertyOf,可以直接创建关联，而�
 Object.setPropertyOf(Child.prototype,Parent.prototype)
 console.log(Child.prototype.constuctor===Child)//true
 ```
+
