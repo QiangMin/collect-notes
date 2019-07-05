@@ -6,7 +6,8 @@ node_modules
 
 collect-notes
 
+collect-notes-all
+
 .idea
-*.md
 
 _book
